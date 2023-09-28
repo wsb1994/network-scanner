@@ -1,6 +1,5 @@
 # network-scanner
-A network scanner that determines if MySQL is running, and extracts data about it. It even checks for weird ports or other shenanigans. 
-
+A network scanner that determines if MySQL is running, and extracts data about it.
 
 To run the service, 
 
